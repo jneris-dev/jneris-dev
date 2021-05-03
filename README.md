@@ -25,8 +25,11 @@
 
 ![](https://img.shields.io/badge/expo-f1f1f1?style=for-the-badge&logo=expo&labelColor=111111)
 ![](https://img.shields.io/badge/react_native-06bcee?style=for-the-badge&logo=react&labelColor=111111)
+![](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=111111)
 ![](https://img.shields.io/badge/javascript-efd81d?style=for-the-badge&logo=javascript&labelColor=111111&logoColor=efd81d)
+![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&labelColor=111111&logoColor=1572B6)
 ![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&labelColor=111111&logoColor=339933)
+![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&labelColor=111111&logoColor=E34F26)
 
 ## 🎨 Design Tools
 
