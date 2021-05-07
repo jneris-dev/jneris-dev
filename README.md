@@ -1,6 +1,6 @@
 # Hi, I’m João Neris
 
-[<img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&labelColor=0A66C2" />](www.linkedin.com/in/joao-neris
+[<img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&labelColor=0A66C2" />](https://www.linkedin.com/in/joao-neris
 )
 [<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&labelColor=E4405F&logoColor=ffffff" />](https://www.instagram.com/jneris_wd/)
 [<img src="https://img.shields.io/badge/behance-1769FF?style=flat-square&logo=behance&labelColor=1769FF" />](https://www.behance.net/jneris)
