@@ -16,14 +16,14 @@
 
 #### Currently my stack of studies is:
 
-💻 Web front-end development with REACT JS <br/>
+💻 Web front-end development with REACT JS | ANGULAR <br/>
 📱 Mobile applications for Android and iOS with REACT NATIVE
 
 #### In addition to being a developer, I am a Web Designer. I like to create beautiful interfaces to provide the user with a great experience.
 
 ## 🧪 Tech Stack
 
-![](https://img.shields.io/badge/expo-f1f1f1?style=for-the-badge&logo=expo&labelColor=111111)
+![](https://img.shields.io/badge/angular-dd0031?style=for-the-badge&logo=angular&labelColor=111111&logoColor=dd0031)
 ![](https://img.shields.io/badge/react_native-06bcee?style=for-the-badge&logo=react&labelColor=111111)
 ![](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=111111)
 ![](https://img.shields.io/badge/javascript-efd81d?style=for-the-badge&logo=javascript&labelColor=111111&logoColor=efd81d)
