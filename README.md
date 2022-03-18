@@ -8,7 +8,7 @@
 Currently my stack is:
 
 💻 Web front-end development with ReactJs and Angular<br/>
-📡 API with NodeJs<br/>
+📡 Back-end with NodeJs<br/>
 💾 Database: Firebase (Cloud Firestore/Real Time)<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jneris-dev&theme=dark&show_icons=true&icon_color=e8002e)
