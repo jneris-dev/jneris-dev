@@ -1,9 +1,9 @@
 # Hi, I’m João Neris
 
-[<img src="https://img.shields.io/badge/LinkedIn-1c1c1c?style=flat-square&logo=linkedin&labelColor=1c1c1c&logoColor=de0030" />](https://www.linkedin.com/in/joao-neris
-)
+[<img src="https://img.shields.io/badge/LinkedIn-1c1c1c?style=flat-square&logo=linkedin&labelColor=1c1c1c&logoColor=de0030" />](https://www.linkedin.com/in/joao-neris/)
 [<img src="https://img.shields.io/badge/Instagram-1c1c1c?style=flat-square&logo=instagram&labelColor=1c1c1c&logoColor=de0030" />](https://www.instagram.com/jneris.dev/)
 [<img src="https://img.shields.io/badge/Behance-1c1c1c?style=flat-square&logo=behance&labelColor=1c1c1c&logoColor=de0030" />](https://www.behance.net/jneris)
+[<img src="https://img.shields.io/badge/RocketSeat-1c1c1c?style=flat-square&logo=apacherocketmq&labelColor=1c1c1c&logoColor=de0030" />](https://app.rocketseat.com.br/me/jneris)
 
 Currently my stack is:
 
