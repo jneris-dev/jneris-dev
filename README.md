@@ -1,8 +1,8 @@
 <h1 align="center"><b>Olá , sou João Neris </b>👋</h1>
 
-<a target="_blank" align="center">
+<div align="center">
   <img align="right" top="500" height="250" width="350" alt="João Neris" src="https://www.jneris.com.br/illustration.svg">
-</a>
+</div>
 
 - 🔭 Atualmente estou trabalhando no <a href="https://www.ateliedepropaganda.com.br/" target="blank">Ateliê de Propaganda</a>
 
@@ -10,7 +10,7 @@
 
 - 🤝 Estou disponível para freelancer.
 
-- 🌱 Atualmente estou aprendendo **GraphQL** e **Nodejs**
+- 🌱 Atualmente estou aprendendo **React Native** e **Nodejs**
 
 - 📫 Entre em contato comigo **contato@jneris.com.br**
 
