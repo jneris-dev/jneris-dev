@@ -4,13 +4,13 @@
   <img align="right" top="500" height="250" width="350" alt="João Neris" src="https://www.jneris.com.br/illustration.svg">
 </div>
 
-- 🔭 Atualmente estou trabalhando no <a href="https://www.ateliedepropaganda.com.br/" target="blank">Ateliê de Propaganda</a>
+- 🔭 Atualmente buscando uma nova oportunidade de trabalho.
 
-- 🌱 Atualmente estou trabalhando com **Reactjs**
+- 🌱 Aprimorando **Reactjs** como minha linguagem principal.
 
 - 🤝 Estou disponível para freelancer.
 
-- 🌱 Atualmente estou aprendendo **React Native** e **Nodejs**
+- 🌱 Esturando **React Native** e **Nodejs**
 
 - 📫 Entre em contato comigo **contato@jneris.com.br**
 
