@@ -10,7 +10,7 @@
 
 - 🤝 Estou disponível para freelancer.
 
-- 🌱 Esturando **React Native** e **Nodejs**
+- 🌱 Estudando **React Native** e **Nodejs**
 
 - 📫 Entre em contato comigo **contato@jneris.com.br**
 
