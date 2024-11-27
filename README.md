@@ -4,7 +4,7 @@
   <img align="right" top="500" height="250" width="350" alt="João Neris" src="https://www.jneris.com.br/illustration.svg">
 </div>
 
-Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos web, com foco na experiência do usuário e também na responsividade de meus projetos.
+Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos web, experiente em design de interfaces, com foco na experiência do usuário e mobile first.
 
 - 🌱 Tenho conhecimento e experiência em React, Next, ReactNative, Javascript, Typescript, Bootstrap, TailwindCSS, Wordpress.
 
