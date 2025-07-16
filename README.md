@@ -4,9 +4,10 @@
   <img align="right" top="500" height="250" width="350" alt="João Neris" src="https://www.jneris.com.br/illustration.svg">
 </div>
 
-Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos web, experiente em design de interfaces, com foco na experiência do usuário e mobile first.
+Sou desenvolvedor Front-End e designer UI/UX, especializado em design de interfaces modernas e funcionais, com foco em mobile first e experiência do usuário.
+Trabalho com tecnologias como React, JavaScript, HTML, CSS e ferramentas como Figma, unindo código e design para criar soluções digitais responsivas, acessíveis e visualmente consistentes.
 
-- 🌱 Tenho conhecimento e experiência em React, Next, ReactNative, Javascript, Typescript, Bootstrap, TailwindCSS, Wordpress.
+- 🌱 Tenho conhecimento e experiência em React JS, Next, React Native, Javascript, Typescript, Bootstrap, TailwindCSS, Wordpress.
 
 - 📫 Entre em contato comigo **contato@jneris.com.br**
 
