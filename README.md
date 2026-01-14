@@ -1,4 +1,4 @@
-<h1><b>Olá , sou João Neris </b>👋</h1>
+<h1 align="center"><b>Olá , sou João Neris </b>👋</h1>
 
 <div align="center">
   <img align="right" top="500" height="250" width="350" alt="João Neris" src="https://www.jneris.com.br/illustration.svg">
@@ -9,7 +9,7 @@ Sou desenvolvedor Front-End e designer UI/UX, especializado em design de interfa
 - ⚛️ **Front-End:** Criação de interfaces Pixel-Perfect com **React, Next.js e TypeScript**.
 - ☕ **Back-end:** Arquitetura de dados com **Node.js, APIs RESTful e GraphQL**.
 - 🎨 **Design:** UX/UI com foco em Design Systems (Figma).
-- 📄 **Experiências:** <a href="https://www.jneris.com.br/resume.pdf" target="blank">Currículo</a>
+- 📄 **Experiências:** Confira meu <a href="https://www.jneris.com.br/resume.pdf" target="blank">Currículo</a>.
 
 ## Stacks
 
